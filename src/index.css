@@ -11,3 +11,11 @@ body {
   border-radius: 15px;
   padding: 30px;
 }
+
+.search-form-input {
+    background-color: #f9f7fe;
+    border: none;
+    border-radius: 6px;
+    border;
+
+}
