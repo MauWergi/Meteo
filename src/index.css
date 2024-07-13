@@ -73,14 +73,13 @@ main {
 .weather-app-icon {
   width: 88px;
   height: 88px;
-  margin-top: 10px;
 }
 
 .weather-app-temp {
   font-size: 88px;
   font-weight: bold;
   margin-left: 10px;
-  line height: 88px
+  line-height: 88px;
 }
 
 .weather-app-temp-unit {
